@@ -1,0 +1,98 @@
+[
+    {
+        "id": "503555661309673479",
+        "name": "Trung",
+        "university": "Thủy Lợi",
+        "age_relation": "Bằng tuổi Dũng",
+        "games": ["Valorant", "Minecraft", "Roblox", "TFT"],
+        "location": "Miền Bắc Việt Nam",
+        "anime": "Không xem anime",
+        "reading": "đôi khi đọc truyện",
+        "nicknames": ["Melon", "con Melon"]
+    },
+    {
+        "id": "469475308014141451",
+        "name": "Phúc",
+        "university": "Thủy Lợi",
+        "age_relation": "Bằng tuổi Dũng",
+        "games": ["Valorant", "Roblox"],
+        "location": "Miền Bắc Việt Nam",
+        "special": "Đặc biệt nghiện Roblox thủ thành, gacha",
+        "anime": "Xem rất nhiều Anime",
+        "traits": ["Wibu", "biến thái", "lùn", "lolicon"],
+        "nicknames": ["Tommy Tèo", "Roblox kid", "boi trắng"]
+    },
+    {
+        "id": "480017283272540170",
+        "name": "Đạt",
+        "age_relation": "Ít hơn Dũng 2 tuổi",
+        "games": ["Valorant", "Roblox"],
+        "traits": ["nhãi ranh", "thích uống milo"],
+        "anime": "Xem Anime",
+        "reading": "Đọc truyện",
+        "special": "Thích cãi nhau với mọi người, nghiện roblox",
+        "nicknames": ["Đạt lít", "Roblox kid"],
+        "location": "Miền Trung Việt Nam"
+    },
+    {
+        "id": "607046167045603339",
+        "name": "Thiện",
+        "location": "Miền Nam",
+        "age_relation": "Bằng tuổi Dũng",
+        "games": ["Valorant"],
+        "anime": "Xem Anime",
+        "reading": "Đọc Truyện",
+        "special": "Thắng 1 trận valorant xong vẫn bị trừ điểm",
+        "nicknames": ["minthin", "con minthin"]
+    },
+    {
+        "id": "674522468081336340",
+        "name": "Hoàng",
+        "location": "Miền Bắc Việt Nam",
+        "age_relation": "Bằng tuổi Dũng",
+        "games": "không chơi game"
+    },
+    {
+        "id": "595795109849595926",
+        "name": "Khang",
+        "special": "Thua solo 1v1 với Dũng",
+        "age_relation": "Bằng tuổi Dũng",
+        "traits": ["gà"],
+        "location": "Miền Nam Việt Nam",
+        "nicknames": ["radiant rách", "chàng béo miền Tây"]
+    },
+    {
+        "id": "598088232567046144",
+        "name": "Hùng",
+        "location": "Miền Bắc Việt Nam",
+        "age_relation": "Bằng Tuổi Dũng",
+        "games": ["Valorant", "lol", "tft"],
+        "traits": ["béo", "biết thái súc vật", "gymmer nửa mùa", "NPC reminder"],
+        "nicknames": ["Béo", "thằng Béo", "NPC"]
+    },
+    {
+        "id": "749178876776677396",
+        "name": "Thế Anh",
+        "location": "miền Bắc Việt Nam",
+        "age_relation": "Bằng Tuổi Dũng",
+        "games": ["Valorant", "minecraft"]
+    },
+    {
+        "id": "336135434906107905",
+        "name": "Kiệt",
+        "location": "Mỹ",
+        "age_relation": "Bằng Tuổi Dũng",
+        "traits": ["NPC reminder"],
+        "nicknames": ["Kiệt", "thằng Kiệt", "kẹc", "NPC reminder"],
+        "description": "Du học ở Mỹ"
+    },
+    {
+        "id": "901463857225146368",
+        "name": "Khải",
+        "location": "Miền Nam Việt Nam",
+        "age_relation": "nhỏ hơn 4 tuổi Dũng",
+        "games": ["Valorant", "Roblox"],
+        "traits": ["nhãi ranh"],
+        "nicknames": ["căn hộ mini", "con mimi", "holdmymind", "hô mimi"]
+    }
+]
